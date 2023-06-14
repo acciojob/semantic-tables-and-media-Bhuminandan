@@ -1,2 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-/* Your CSS Code here. */
+th, td {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+#headrow{
+    background-color: #C0504D;
+    color: rgb(255, 255, 255);
+}
+
+#second{
+    background-color: #DA9694;
+    color: rgb(255, 255, 255);
+}
+
+#Third{
+    background-color: #F2DCDB;
+}
+
+#Fourth{
+    background-color: #D9D9D9;
+}
